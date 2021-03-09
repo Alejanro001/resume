@@ -1,0 +1,26 @@
+{
+    "name": "Brandon Mays",
+    "basedIn": "Washington, D.C.",
+    "profession": [
+        "Software Engineer",
+        "Full Stack Web Developer"
+    ],
+    "Relavent Skills": {
+        "Front end": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "Back end": [
+            "Node",
+            "SQL",
+            "Python",
+            "C#"
+        ],
+        "Libraries and other tools": [
+            "Bootstrap",
+            "Bulma",
+            "ReactJS"
+        ]
+    }
+}
